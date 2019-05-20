@@ -8,8 +8,8 @@ How to use
 2. If you do not have a models folder already created in your capsule, create one and move parser.py into it.
 3. Open parser.py and replace the line 
 
-    with open("ditto.json") as f:
-with 
+    with open("ditto.json") as f:  
+with   
     with open(*your filename with json data*) as f:
     
 4. Run the script with *python parser.py*
