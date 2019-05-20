@@ -9,7 +9,7 @@ How to use
 3. Open parser.py and replace the line 
 
     with open("ditto.json") as f:
-with
+with 
     with open(*your filename with json data*) as f:
     
 4. Run the script with *python parser.py*
