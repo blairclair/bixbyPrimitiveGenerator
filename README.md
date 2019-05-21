@@ -19,3 +19,7 @@ with
 Testing
 --------
 I have provided the file ditto.json for anyone who merely wishes to test the script with random json data. If this is your goal you can skip step 3.
+
+Example
+--------
+The results of running parser.py on ditto.json are stored inside of the results folder.
