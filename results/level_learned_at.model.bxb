@@ -1,0 +1,3 @@
+integer (level_learned_at) {
+description(__DESCRIPTION__)
+}

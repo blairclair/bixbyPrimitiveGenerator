@@ -1,0 +1,3 @@
+integer (effort) {
+description(__DESCRIPTION__)
+}

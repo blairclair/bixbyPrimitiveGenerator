@@ -1,0 +1,3 @@
+integer (game_index) {
+description(__DESCRIPTION__)
+}

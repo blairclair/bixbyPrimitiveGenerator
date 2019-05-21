@@ -1,0 +1,3 @@
+integer (weight) {
+description(__DESCRIPTION__)
+}
