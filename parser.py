@@ -12,11 +12,11 @@ def getFile():
 		f.close()
 	for s in strArr:
 		f = open(s + ".model.bxb", "w+")
-		f.write("text (" + i + ") {\ndescription(__DESCRIPTION__)\n}")
+		f.write("text (" + s + ") {\ndescription(__DESCRIPTION__)\n}")
 		f.close()
 	for b in boolArr:
 		f = open(s + ".model.bxb", "w+")
-		f.write("boolean (" + i + ") {\ndescription(__DESCRIPTION__)\n}")
+		f.write("boolean (" + b + ") {\ndescription(__DESCRIPTION__)\n}")
 		f.close()
 
 def listIter(listVal):

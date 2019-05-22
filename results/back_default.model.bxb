@@ -1,3 +1,3 @@
-text (weight) {
+text (back_default) {
 description(__DESCRIPTION__)
 }
